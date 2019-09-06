@@ -1,6 +1,6 @@
 # GraphProj1
 
-* This project aims at visualizing the graphs witch includes adding, deleting and moving the edges and vertices. The code of the program is basically made in python. *
+* This project aims at visualizing the graphs witch includes adding, deleting and moving the edges and vertices. The code of the program is basically made in python.*
 
 ## Requirements 
 - PyQt5
