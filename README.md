@@ -9,7 +9,7 @@
 
 
 ### Downloading PyQt5 and PyQt5 tools
- >
+ > pip3 install PyQt5
 
 
 
