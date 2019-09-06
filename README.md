@@ -19,7 +19,7 @@
 
 ### Then, you can execute the file named TEST1.ipnyb using Jupyter Notebook directly or you can run thorugh PyCharm.
 
-** If you want to run it through python then convert the ipnyb to py and then execute the program in python. ** 
+*If you want to run it through python then convert the ipnyb to py and then execute the program in python.*
 
 > python3 TEST1.py
 
