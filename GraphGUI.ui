@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1795</width>
-    <height>937</height>
+    <width>1458</width>
+    <height>942</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -24,12 +24,19 @@
     <property name="geometry">
      <rect>
       <x>0</x>
-      <y>0</y>
-      <width>439</width>
+      <y>-1</y>
+      <width>639</width>
       <height>31</height>
      </rect>
     </property>
     <layout class="QGridLayout" name="Tools">
+     <item row="0" column="3">
+      <widget class="QPushButton" name="savefile">
+       <property name="text">
+        <string>Save File</string>
+       </property>
+      </widget>
+     </item>
      <item row="0" column="0">
       <widget class="QToolButton" name="Add_Vertex">
        <property name="toolTip">
@@ -37,23 +44,6 @@
        </property>
        <property name="text">
         <string>Add Node</string>
-       </property>
-      </widget>
-     </item>
-     <item row="0" column="3">
-      <widget class="QPushButton" name="Save">
-       <property name="text">
-        <string>Save</string>
-       </property>
-      </widget>
-     </item>
-     <item row="0" column="1">
-      <widget class="QToolButton" name="AddEdge">
-       <property name="toolTip">
-        <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Add Edge&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
-       </property>
-       <property name="text">
-        <string>Add Edge</string>
        </property>
       </widget>
      </item>
@@ -68,9 +58,33 @@
       </widget>
      </item>
      <item row="0" column="4">
-      <widget class="QPushButton" name="Open">
+      <widget class="QPushButton" name="openfile">
        <property name="text">
         <string>Open</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="1">
+      <widget class="QToolButton" name="AddEdge">
+       <property name="toolTip">
+        <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Add Edge&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+       </property>
+       <property name="text">
+        <string>Add Edge</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="5">
+      <widget class="QPushButton" name="about">
+       <property name="text">
+        <string>About</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="6">
+      <widget class="QPushButton" name="move">
+       <property name="text">
+        <string>Move Node</string>
        </property>
       </widget>
      </item>
@@ -79,10 +93,10 @@
    <widget class="QLabel" name="label">
     <property name="geometry">
      <rect>
-      <x>4</x>
-      <y>35</y>
-      <width>1801</width>
-      <height>881</height>
+      <x>34</x>
+      <y>45</y>
+      <width>1481</width>
+      <height>871</height>
      </rect>
     </property>
     <property name="mouseTracking">
@@ -108,7 +122,7 @@ background-color: rgb(255, 255, 255);</string>
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>1795</width>
+     <width>1458</width>
      <height>26</height>
     </rect>
    </property>
