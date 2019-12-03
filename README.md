@@ -11,6 +11,7 @@
 
 ### Downloading PyQt5, PyQt5 tools and NetworkX
  > pip3 install PyQt5
+ 
  > pip3 install networkx
 
 
