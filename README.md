@@ -18,7 +18,7 @@
 
 ### Firstly, clone the repository to your system.
 
-> git clone https://github.com/CircleJerkHug/GraphProj1.git
+> git clone https://github.com/CircleJerkHug/PyGraph
 
 ### Then, you can execute the file named Backend.ipnyb using Jupyter Notebook directly or you can run thorugh PyCharm.
 
