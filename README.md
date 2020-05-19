@@ -16,7 +16,7 @@
 
 
 
-### Firstly, clone the repository to your system.
+### First, clone the repository to your system.
 
 > git clone https://github.com/CircleJerkHug/PyGraph
 
